@@ -31,3 +31,19 @@ C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\De
 C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.pdb
 C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.genruntimeconfig.cache
 C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ref\ClubDeportivoTP1.dll
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.exe
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.deps.json
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.runtimeconfig.json
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.runtimeconfig.dev.json
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.dll
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ref\ClubDeportivoTP1.dll
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.pdb
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.AssemblyInfoInputs.cache
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.AssemblyInfo.cs
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.dll
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ref\ClubDeportivoTP1.dll
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.pdb
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.genruntimeconfig.cache

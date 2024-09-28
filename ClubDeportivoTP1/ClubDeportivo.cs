@@ -23,11 +23,11 @@ namespace ClubDeportivoTP1
             Socio socioBuscado = null;
             int i = 0;
 
-            while(i <  socios.Count && !socios[i].GetNroSocio().Equals(nroSocio))
+            while (i < socios.Count && !socios[i].GetNroSocio().Equals(nroSocio))
             {
                 i++;
             }
-            if(i != socios.Count)
+            if (i != socios.Count)
             {
                 socioBuscado = socios[i];
             }
@@ -42,21 +42,28 @@ namespace ClubDeportivoTP1
             Socio socio;
             socio = buscarSocio(nroSocio);
 
-            if(socio == null)
+            if (socio == null)
             {
                 socio = new Socio(nombre, nroSocio);
                 socios.Add(socio);
                 resultado = true;
+                Console.WriteLine("El socio fue cargado exitosamete");
+            }
+            else
+            {
+                Console.WriteLine("El socio ya existe.");
             }
 
+
             return resultado;
-            
+
         }
 
         public bool agregarActividad(string actividad)
         {
             bool resultado = false;
-            if (this.actividades.IndexOf(actividad) == -1) {
+            if (this.actividades.IndexOf(actividad) == -1)
+            {
                 this.actividades.Add(actividad);
                 resultado = true;
             }

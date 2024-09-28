@@ -19,6 +19,9 @@ namespace ClubDeportivoTP1
             clubDeportivo.agregarActividad("tenis");
 
             //Se da de alta un nuevo socio
+             clubDeportivo.altaSocio("Luis", 1);
+
+            //No permite cargar otro socio existente:
             clubDeportivo.altaSocio("Luis", 1);
 
             //Intentamos inscribir a un socio inexistente
