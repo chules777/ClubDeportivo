@@ -10,12 +10,14 @@ namespace ClubDeportivoTP1
     {
         private string nombre;
         private int nroSocio;
+        private List<string> actividades;
 
 
         public Socio(string nombre, int nroSocio)
         {
             this.nombre = nombre;
             this.nroSocio = nroSocio;
+            this.actividades = new List<string>();
         }
 
         public int GetNroSocio()
@@ -23,6 +25,19 @@ namespace ClubDeportivoTP1
             return nroSocio;
         }
 
+        public bool agregarActividad(string actividad)
+        {
+            bool resultado = false;
+            if (this.actividades.Count < 3)
+            {
+                if (this.actividades.IndexOf(actividad) == -1)
+                {
+                    this.actividades.Add(actividad);
+                    resultado = true;
+                }
+            }
+            return resultado;
+        }
 
         public override string ToString()
         {

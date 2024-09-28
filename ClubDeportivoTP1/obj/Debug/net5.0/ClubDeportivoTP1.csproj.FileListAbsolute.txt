@@ -14,3 +14,20 @@ D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivoTP1\ClubDepor
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivoTP1\ClubDeportivoTP1\obj\Debug\net5.0\ref\ClubDeportivoTP1.dll
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivoTP1\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.pdb
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ClubDeportivoTP1\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.genruntimeconfig.cache
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.exe
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.deps.json
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.runtimeconfig.json
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.runtimeconfig.dev.json
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.dll
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\bin\Debug\net5.0\ClubDeportivoTP1.pdb
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.AssemblyInfo.cs
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.sourcelink.json
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.dll
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\refint\ClubDeportivoTP1.dll
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.pdb
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ClubDeportivoTP1.genruntimeconfig.cache
+C:\Users\marce\Documents\IFTS_N°29\TP POO\ClubDeportivo\ClubDeportivoTP1\obj\Debug\net5.0\ref\ClubDeportivoTP1.dll

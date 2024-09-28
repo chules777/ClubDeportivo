@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\marce\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ClubDeportivoTP1\\ClubDeportivoTP1\\ClubDeportivoTP1.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Documents\\IFTS_N°29\\TP POO\\ClubDeportivo\\ClubDeportivoTP1\\ClubDeportivoTP1.csproj",
       "projectName": "ClubDeportivoTP1",
-      "projectPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ClubDeportivoTP1\\ClubDeportivoTP1\\ClubDeportivoTP1.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ClubDeportivoTP1\\ClubDeportivoTP1\\obj\\",
+      "projectPath": "C:\\Users\\marce\\Documents\\IFTS_N°29\\TP POO\\ClubDeportivo\\ClubDeportivoTP1\\ClubDeportivoTP1.csproj",
+      "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marce\\Documents\\IFTS_N°29\\TP POO\\ClubDeportivo\\ClubDeportivoTP1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {}
       },
       "frameworks": {
         "net5.0": {
@@ -40,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -51,7 +61,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
