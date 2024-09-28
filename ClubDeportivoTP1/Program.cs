@@ -6,50 +6,40 @@ namespace ClubDeportivoTP1
     {
         static void Main(string[] args)
         {
+            //Se instancia el club deportivo
             ClubDeportivo clubDeportivo = new ClubDeportivo();
-
-            int bandera = 1;
-
-            string nombre;
-            int nroSocio;
-
-            while(bandera == 1)
-            {
-            Console.WriteLine("¿Deseas cargar un socio?");
-            Console.WriteLine("Pulsa 1 para cargar socio, 0 para terminar el programa");
-                bandera = int.Parse(Console.ReadLine());
-                if(bandera == 1)
-                {
-                    Console.WriteLine("Escriba el nombre del socio:");
-                    nombre = Console.ReadLine();
-                    Console.WriteLine("Escriba el nro de socio a ingresar:");
-                    nroSocio = int.Parse(Console.ReadLine());
-                    cargarSocio(nombre, nroSocio);
-                }
-
-            }
-
-            
-
-            void cargarSocio(string nombre, int nroSocio)
-            {
-                bool pude;
-
-                pude = clubDeportivo.altaSocio(nombre, nroSocio);
-                if (pude)
-                {
-                    Console.WriteLine("El socio " + nombre + " fue cargado exitosiamente " + " con el número de socio: " + nroSocio);
-                }
-                else
-                {
-                    Console.WriteLine("El socio ya existe.");
-                }
-            }
-
-            clubDeportivo.listarSocios();
+            string resultado;
 
 
-            Console.ReadKey();
+            //Se agregan actividades al club
+            clubDeportivo.agregarActividad("natacion");
+            clubDeportivo.agregarActividad("futbol");
+            clubDeportivo.agregarActividad("basket");
+            clubDeportivo.agregarActividad("tiro");
+            clubDeportivo.agregarActividad("tenis");
+
+            //Se da de alta un nuevo socio
+            clubDeportivo.altaSocio("Luis", 1);
+
+            //Intentamos inscribir a un socio inexistente
+            resultado = clubDeportivo.inscribirActividad("natacion", 2);
+            Console.WriteLine(resultado);
+
+            //Intentamos inscribir un socio a una actividad inexistente
+            resultado = clubDeportivo.inscribirActividad("hockey", 1);
+            Console.WriteLine(resultado);
+
+            //Inscripciones exitosas
+            resultado = clubDeportivo.inscribirActividad("tenis", 1);
+            Console.WriteLine(resultado);
+            resultado = clubDeportivo.inscribirActividad("natacion", 1);
+            Console.WriteLine(resultado);
+            resultado = clubDeportivo.inscribirActividad("futbol", 1);
+            Console.WriteLine(resultado);
+
+            //Intentamos inscribir al socio a mas de tres actividades
+            resultado = clubDeportivo.inscribirActividad("tiro", 1);
+            Console.WriteLine(resultado);
         }
     }
 }
